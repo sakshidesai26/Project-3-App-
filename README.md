@@ -1,2 +1,2 @@
-# Project-3-App-
+# Project-3-App
 Education Management System Application
